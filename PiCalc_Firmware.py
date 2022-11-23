@@ -1,3 +1,4 @@
+#pico calculator
 from machine import Pin,Timer,I2C
 import utime
 from ssd1306 import SSD1306_I2C
