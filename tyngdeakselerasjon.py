@@ -1,5 +1,6 @@
 /*
- / Verifying Earth's Gravitational Acceleration
+ / Verifying Earth's Gravitational Acceleration using the rasberryPi
+ (9.81m/s^2)
 */
 #include <wiringPi.h>
 #include <iostream>
